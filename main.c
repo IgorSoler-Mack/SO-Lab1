@@ -15,8 +15,8 @@ void pausa(){
 int main(){
     printf(
     	"+--------------+\n"
-		"| Hello World! |\n"
-		"+--------------+\n");
+	"| Hello World! |\n"
+	"+--------------+\n");
 	pausa();
     return 0;
 }

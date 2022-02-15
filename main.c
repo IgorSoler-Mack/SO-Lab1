@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /*
+Igor Soler Cavalcanti - 42013550
 Rafael Miranda Ferreira - 42080932
 */
 

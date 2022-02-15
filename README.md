@@ -20,5 +20,6 @@ Compile e Execute o arquivo main.c em seu compilador de escolha (A IDE utilizada
 Execute o arquivo main.exe
 
 ## Como utilizar o Programa
-o Hello World será impresso automaticamente após o programa ser executado
+O Hello World será impresso automaticamente após o programa ser executado
+
 Entre qualquer digito para encerrar o código

@@ -22,4 +22,4 @@ Execute o arquivo main.exe
 ## Como utilizar o Programa
 O Hello World será impresso automaticamente após o programa ser executado
 
-Entre qualquer digito para encerrar o código
+Entre qualquer caractere para encerrar o código

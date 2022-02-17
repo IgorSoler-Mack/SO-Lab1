@@ -3,6 +3,7 @@
 /*
 Igor Soler Cavalcanti - 42013550
 Rafael Miranda Ferreira - 42080932
+Paloma de Sousa Bezerra - 32094264
 */
 
 // Pausa o código até receber um Input
